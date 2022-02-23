@@ -601,7 +601,9 @@ section {
 }
 @media (max-width: 768px) {
   .why-us .content-item {
-    padding: 40px 0;
+    padding: 40px 20px;
+    text-align: center;
+    margin-left: 0px;
   }
 }
 
